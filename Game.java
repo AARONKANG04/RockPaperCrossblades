@@ -3,6 +3,7 @@
  * Aaron Kang
  * 1-2
  * Oct 10th
+ * Jan 1st, 2024
  */
 
 import java.util.Scanner;
